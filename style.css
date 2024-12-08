@@ -1,0 +1,13 @@
+*{
+    padding: 0;   
+    margin: 0; 
+    box-sizing: border-box;
+}
+.wroning {
+    
+    border: 1px solid red;
+}
+span{
+    color: red;
+    display: none;
+}
